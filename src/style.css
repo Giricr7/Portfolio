@@ -782,8 +782,8 @@ html {
   background-color: #000000 !important;
 }
 .image-style {
-  height: 85%;
-  width: 90%;
+  height: 70%;
+  width: 100%;
 }
 .project-title {
   font-weight: bold;
@@ -810,8 +810,16 @@ html {
   flex-direction: row;
 }
 
+.nav_naming{
+  display: flex;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  font-size: larger;
+}
+
 @media (max-width: 767px) {
   .skill-tools-wrapper{
     flex-direction: column;
   }
 }
+
