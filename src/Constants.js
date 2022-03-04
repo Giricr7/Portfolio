@@ -23,7 +23,7 @@ export const PROJECTS = [
     image: HEALTH_SYSTEM,
     name: "Helath System",
     technologyUsed: "ReactJs, NodeJs, ExpressJs,MongoDb",
-    description: "A information storage system for a hospital and their parents with admin portal facility",
+    description: "A information storage system for a hospital and their patients with admin portal facility",
     url: "https://health-system.netlify.app/",
   }
 ];
