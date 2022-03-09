@@ -23,6 +23,8 @@ function Projects() {
                 title={project.name}
                 description={project.description}
                 link={project.url}
+                GitFrontEndLink={project.GitFrontEndLink}
+                GitBackEndLink={project.GitBackEndLink}
               />
             </Col>
           ))}
